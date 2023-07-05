@@ -25,7 +25,9 @@ class Solution(object):
             return max_length
 
 """
-실패한 시도..
+문제는.. 0이 예시보다 여러 번 나올 경우ㅠ
+
+다른 실패한 시도..
 class Solution(object):
     def longestSubarray(self, nums):
         current_length = 0
